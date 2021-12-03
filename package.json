@@ -1,0 +1,30 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Battleship game created for the odin project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscipuliCalculo/Battleship.git"
+  },
+  "author": "Vitam Discipuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiscipuliCalculo/Battleship/issues"
+  },
+  "homepage": "https://github.com/DiscipuliCalculo/Battleship#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "jest": "^27.3.1",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
